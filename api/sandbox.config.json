@@ -6,5 +6,6 @@
     "port": 8080,
     "startScript": "develop"
   },
-  "template": "node"
+  "template": "node",
+  "startScript": "develop"
 }
